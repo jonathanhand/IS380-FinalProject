@@ -1,0 +1,35 @@
+****** Welcome to iSell! ******
+******** Place an Order ********
+
+'TODAY''SDATE:'||TO_CHA                                                         
+-----------------------                                                         
+Today's Date: 19-DEC-18                                                         
+Enter the Customer Number: 103
+
+'CUSTOMERNAME:' RTRIM(CLASTNAME)          ', CFIRSTNAME                         
+--------------- ------------------------- -- -------------------------          
+'SHIPPINGADDRESS:' ADDRESS                                  'CITY,STATE,ZIP:'   
+------------------ ---------------------------------------- ------------------  
+CITY                 STATE                ZIP   'PHONE: PHONE                   
+-------------------- -------------------- ----- ------- --------------          
+Customer Name:  McNulty                   ,  John                               
+Shipping Address:  233 1st Street                           City, State, Zip:   
+Long Beach           CA                   90802 Phone:  (323) 555-1242          
+                                                                                
+Enter Product Search Keyword: 
+SP2-0734: unknown command beginning "'Item Numb..." - rest of line ignored.
+SP2-0734: unknown command beginning "from produ..." - rest of line ignored.
+Enter the quantity ordered: 
+
+'AMOUNTORDERED:' ORDERAMOUNT                                                    
+---------------- -----------                                                    
+Amount Ordered:                                                                 
+
+'ORDERSTATUS:' ORDERSTATU                                                       
+-------------- ----------                                                       
+Order Status:  Open                                                             
+************** Order number is ---------->
+
+    MAXNUM                                                                      
+----------                                                                      
+      1012                                                                      

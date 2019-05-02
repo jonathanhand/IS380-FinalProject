@@ -1,0 +1,32 @@
+***** Welcome to iSell! *****
+*******SHOW ORDER DETAILS *******
+Please enter the Order Number: 1015
+
+OrderNumber: 1015                                                               
+Order Status: Open                                                              
+                                                                                
+
+Customer Number: 102                                                            
+
+Jones, Elaine                                                                   
+123 Main Street,                                                                
+Los Angeles, CA 91001                                                           
+(323) 511-1195                                                                  
+                                                                                
+
+Item Number: p2                                                                 
+Item Description: Pencil                                                        
+Unit Price: $2                                                                  
+                                                                                
+
+Date Ordered:  18-DEC-18                                                        
+               Date Shipped:                                                    
+                                                                                
+
+Quantity Ordered: 120                                                           
+
+Amount Ordered: $240                                                            
+
+Quantity Shipped:                                                               
+
+Amount Shipped:                                                                 
