@@ -1,4 +1,3 @@
--- start 'C:\Users\handj\Desktop\Fall 2018 Work\IS 380\iSell Project\SalesReport.sql'
 
 prompt ***** SALES REPORT ******
 

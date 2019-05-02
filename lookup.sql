@@ -3,8 +3,7 @@ set heading off
 set feedback off
 set verify off
 
---start 'C:\Users\handj\Desktop\Fall 2018 Work\IS 380\iSell Project\lookup.sql'
-spool 'C:\Users\handj\Desktop\Fall 2018 Work\IS 380\iSell Project\lookup.txt'
+spool 
 
 prompt ***** Welcome to iSell! *****
 prompt *******SHOW ORDER DETAILS *******

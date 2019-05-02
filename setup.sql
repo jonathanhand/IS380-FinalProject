@@ -1,11 +1,6 @@
 set echo on
 
-spool 'C:\Users\handj\Desktop\Fall 2018 Work\IS 380\iSell Project\setup.txt'
-
--- start 'C:\Users\handj\Desktop\Fall 2018 Work\IS 380\iSell Project\setup.sql'
-
---Jonathan Hand
---IS 380
+spool 
 
 
 drop table orders;

@@ -1,11 +1,4 @@
 SQL> 
-SQL> -- start 'C:\Users\handj\Desktop\Fall 2018 Work\IS 380\iSell Project\setup.sql'
-SQL> 
-SQL> --Jonathan Hand
-SQL> --IS 380
-SQL> --ISell Second Deliverable
-SQL> 
-SQL> 
 SQL> drop table orders;
 SQL> drop table rCodes;
 SQL> drop table product;
